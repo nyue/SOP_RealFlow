@@ -31,7 +31,7 @@
 #include <string>
 #include <ctime>
 #include <OP/OP_Director.h>
-#include <UT/UT_DSOVersion.h>
+// #include <UT/UT_DSOVersion.h>
 #include <UT/UT_Math.h>
 #include <UT/UT_Interrupt.h>
 #include <GU/GU_Detail.h>

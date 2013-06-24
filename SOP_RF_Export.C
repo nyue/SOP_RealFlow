@@ -26,7 +26,7 @@
 *
 ***************************************************************************** */
 
-#include <UT/UT_DSOVersion.h>
+// #include <UT/UT_DSOVersion.h>
 #include <UT/UT_EnvControl.h>
 #include <UT/UT_Math.h>
 #include <UT/UT_Matrix3.h>
